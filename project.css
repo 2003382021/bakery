@@ -1333,7 +1333,7 @@ th {
     }
     .content p{
         display: flex;
-        width: 400px;
+        width: 350px;
     }
     .loginbtn{
         width: 100px;
@@ -1342,8 +1342,8 @@ th {
         border-radius: 10px;
     } 
     .wrapper{
-        left: 6%;
-        top: -30%;
+        left: 0%;
+        top: 0%;
     }
     .payment{
         position: absolute;
